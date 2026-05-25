@@ -78,7 +78,7 @@ I am an engineering-first developer currently pursuing my graduation in Applied 
 ### 📊 Deep Code Metrics & Language Insights
 
 <div align="center">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=kumarsatyam9378-art&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&title_color=00F0FF" />
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=kumarsatyam9378-art&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&title_color=00F0FF" />
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarsatyam9378-art&theme=tokyonight&hide_border=false&layout=compact&title_color=00F0FF" />
 </div>
 <br>
