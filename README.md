@@ -1,31 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FF0080,20:7B2FBE,40:00B4D8,60:34A853,80:FF6B35,100:FFD700&amp;height=300&amp;section=header&amp;text=SATYAM%20KUMAR&amp;fontSize=75&amp;fontColor=ffffff&amp;animation=twinkling&amp;desc=Computer%20Science%20%26%20AI%20Engineer%20%7C%20Distributed%20Systems%20%7C%20Cloud%20Architecture&amp;descAlignY=70&amp;descAlign=62&amp;fontAlignY=40" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FF0080,20:7B2FBE,40:00B4D8,60:34A853,80:FF6B35,100:FFD700&amp;height=300&amp;section=header&amp;text=SATYAM%20KUMAR&amp;fontSize=75&amp;fontColor=ffffff&amp;animation=twinkling&amp;desc=Computer%20Science%20and%20AI%20Engineer%20%7C%20Distributed%20Systems%20%7C%20Cloud%20Architecture&amp;descAlignY=70&amp;descAlign=62&amp;fontAlignY=40" width="100%" />
 
 <div align="center">
 
-```
- ███████╗ █████╗ ████████╗██╗   ██╗ █████╗ ███╗   ███╗
- ██╔════╝██╔══██╗╚══██╔══╝╚██╗ ██╔╝██╔══██╗████╗ ████║
- ███████╗███████║   ██║    ╚████╔╝ ███████║██╔████╔██║
- ╚════██║██╔══██║   ██║     ╚██╔╝  ██╔══██║██║╚██╔╝██║
- ███████║██║  ██║   ██║      ██║   ██║  ██║██║ ╚═╝ ██║
- ╚══════╝╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝
-          K U M A R  —  E N G I N E E R I N G  G O D
-```
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  > SYSTEM BOOT SEQUENCE INITIATED...                            ║
-║  > Loading AI Subsystems................. [██████████] 100%     ║
-║  > Mounting Distributed Infrastructure.. [██████████] 100%     ║
-║  > Initializing CS & AI Kernel.......... [██████████] 100%     ║
-║  > Calibrating Neural Compute Engine.... [██████████] 100%     ║
-║  ✔  ALL SYSTEMS NOMINAL — WELCOME TO SATYAM'S DIGITAL FORGE    ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=700&amp;size=22&amp;duration=2500&amp;pause=900&amp;color=00F0FF&amp;center=true&amp;vCenter=true&amp;width=950&amp;height=60&amp;lines=Computer+Science+%2B+AI+Engineer;Distributed+Systems+Architect;AI-Driven+Infrastructure+Builder;Cloud+%2B+Backend+Performance+Engineer;Founder+%E2%80%94+Line+Free+India+%7C+NearKart;Zero+Friction+Code.+Maximum+Efficiency." alt="Typing SVG" />
-</a>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2500&pause=900&color=00F0FF&center=true&vCenter=true&width=950&height=60&lines=Computer+Science+and+AI+Engineer;Distributed+Systems+Architect;AI-Driven+Infrastructure+Builder;Cloud+and+Backend+Performance+Engineer;Founder+Line+Free+India+%7C+NearKart;Zero+Friction+Code.+Maximum+Efficiency.)
 
 </div>
 
