@@ -24,7 +24,7 @@
 ```
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=700&amp;size=22&amp;duration=2500&amp;pause=900&amp;color=00F0FF&amp;center=true&amp;vCenter=true&amp;width=950&amp;height=60&amp;lines=Computer+Science+%26+AI+Engineer;Distributed+Systems+Architect;AI-Driven+Infrastructure+Builder;Cloud+%26+Backend+Performance+Engineer;Founder+%E2%80%94+Line+Free+India+%7C+NearKart;Zero+Friction+Code.+Maximum+Efficiency." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=700&amp;size=22&amp;duration=2500&amp;pause=900&amp;color=00F0FF&amp;center=true&amp;vCenter=true&amp;width=950&amp;height=60&amp;lines=Computer+Science+%2B+AI+Engineer;Distributed+Systems+Architect;AI-Driven+Infrastructure+Builder;Cloud+%2B+Backend+Performance+Engineer;Founder+%E2%80%94+Line+Free+India+%7C+NearKart;Zero+Friction+Code.+Maximum+Efficiency." alt="Typing SVG" />
 </a>
 
 </div>
