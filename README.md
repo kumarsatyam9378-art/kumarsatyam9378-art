@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a1a,100:0F2027&height=280&section=header&text=SATYAM%20KUMAR&fontSize=72&fontColor=00F0FF&animation=twinkling&desc=Core%20CSE%20%7C%20AI%20Architecture%20%7C%20Distributed%20Systems&descAlignY=68&descAlign=62&stroke=00F0FF&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:0a1628,60:0d2137,100:091a2e&height=300&section=header&text=SATYAM%20KUMAR&fontSize=75&fontColor=00F0FF&animation=twinkling&desc=Computer%20Science%20%26%20AI%20Engineer%20%7C%20Distributed%20Systems%20%7C%20Cloud%20Architecture&descAlignY=70&descAlign=62&stroke=00F0FF&strokeWidth=1" width="100%" />
 
 <div align="center">
 
@@ -7,41 +7,15 @@
 ║  > SYSTEM BOOT SEQUENCE INITIATED...                            ║
 ║  > Loading AI Subsystems................. [██████████] 100%     ║
 ║  > Mounting Distributed Infrastructure.. [██████████] 100%     ║
-║  > Initializing Core CSE Kernel......... [██████████] 100%     ║
+║  > Initializing CS & AI Kernel.......... [██████████] 100%     ║
 ║  > Calibrating Neural Compute Engine.... [██████████] 100%     ║
 ║  ✔  ALL SYSTEMS NOMINAL — WELCOME TO SATYAM'S DIGITAL FORGE    ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=900&color=00F0FF&center=true&vCenter=true&width=900&height=60&lines=Core+CSE+Engineer+%26+System+Architect;AI-Driven+Infrastructure+Builder;Distributed+Backend+%26+Cloud+Developer;Performance+Optimization+Specialist;Founder+%E2%80%94+Line+Free+India+%7C+NearKart;Zero+Friction+Code.+Maximum+Efficiency." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&duration=2500&pause=900&color=00F0FF&center=true&vCenter=true&width=950&height=60&lines=Computer+Science+%26+AI+Engineer;Distributed+Systems+Architect;AI-Driven+Infrastructure+Builder;Cloud+%26+Backend+Performance+Engineer;Founder+%E2%80%94+Line+Free+India+%7C+NearKart;Zero+Friction+Code.+Maximum+Efficiency." alt="Typing SVG" />
 </a>
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyam-kumar-130830411)
-[![Gmail](https://img.shields.io/badge/Encrypted_Comm-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarsatyam9378@gmail.com)
-[![Discord](https://img.shields.io/badge/Dev_Channel-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/satyamkumar_30729)
-[![GitHub](https://img.shields.io/badge/Code_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kumarsatyam9378-art)
-
-![Profile Views](https://komarev.com/ghpvc/?username=kumarsatyam9378-art&style=for-the-badge&color=00F0FF&label=PROFILE+VISITORS)
-[![GitHub followers](https://img.shields.io/github/followers/kumarsatyam9378-art?style=for-the-badge&color=34A853&logo=github&label=FOLLOWERS)](https://github.com/kumarsatyam9378-art)
-
-</div>
-
----
-
-<div align="center">
-
-```
- ███████╗ █████╗ ████████╗██╗   ██╗ █████╗ ███╗   ███╗
- ██╔════╝██╔══██╗╚══██╔══╝╚██╗ ██╔╝██╔══██╗████╗ ████║
- ███████╗███████║   ██║    ╚████╔╝ ███████║██╔████╔██║
- ╚════██║██╔══██║   ██║     ╚██╔╝  ██╔══██║██║╚██╔╝██║
- ███████║██║  ██║   ██║      ██║   ██║  ██║██║ ╚═╝ ██║
- ╚══════╝╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝
-          K U M A R  —  E N G I N E E R I N G  G O D
-```
 
 </div>
 
@@ -56,11 +30,11 @@
 ```yaml
 identity:
   name        : Satyam Kumar
-  role        : Core CSE Engineer & AI Architect
+  role        : CS & AI Engineer · System Architect
   location    : India 🇮🇳
-  focus       : Distributed Systems, AI Infrastructure
+  focus       : Distributed Systems · AI Infrastructure
   repos       : 40+ Production-Grade Projects
-  
+
 current_ops:
   - Founder @ Line Free India
   - Founder @ NearKart
@@ -80,7 +54,7 @@ status        : 🟢 ACTIVELY BUILDING
 
 **I don't just write code — I architect systems.**
 
-My obsession lies at the intersection of **low-level system design**, **advanced AI**, and **high-performance computing**. Every line I write is optimized for scale, resilience, and zero-latency execution.
+My obsession lives at the intersection of **computer science fundamentals**, **advanced AI**, and **high-performance distributed computing**. Every line I write is optimized for scale, resilience, and zero-latency execution.
 
 From queue-management platforms handling thousands of real-time users, to hyperlocal discovery engines built for Bharat — I build infrastructure that **works at scale** and **fails gracefully**.
 
@@ -92,9 +66,40 @@ From queue-management platforms handling thousands of real-time users, to hyperl
 
 ---
 
+## 🌐 CONNECT WITH ME
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FBE,50:00B4D8,100:34A853&height=4&section=header" width="80%" />
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Satyam%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/satyam-kumar-130830411)&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-kumarsatyam9378%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:kumarsatyam9378@gmail.com)&nbsp;&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-satyamkumar__30729-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.com/users/satyamkumar_30729)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-kumarsatyam9378--art-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/kumarsatyam9378-art)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=kumarsatyam9378-art&style=for-the-badge&color=00F0FF&label=PROFILE+VISITORS)&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/kumarsatyam9378-art?style=for-the-badge&color=34A853&logo=github&label=FOLLOWERS)](https://github.com/kumarsatyam9378-art)&nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/kumarsatyam9378-art?style=for-the-badge&color=FFD700&logo=github&label=TOTAL+STARS)](https://github.com/kumarsatyam9378-art)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:34A853,50:00B4D8,100:7B2FBE&height=4&section=footer" width="80%" />
+
+</div>
+
+---
+
 ## 🎯 CURRENT MISSION
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B35,50:F7C59F,100:FF6B35&height=3" width="60%" />
+
+<br/><br/>
 
 | Mission | Status | Stack |
 |---|---|---|
@@ -110,19 +115,17 @@ From queue-management platforms handling thousands of real-time users, to hyperl
 
 ## ⚔️ TECH ARSENAL
 
-### 🔹 Core CS & AI Architecture
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,tensorflow,pytorch,linux,bash,docker,kubernetes,git&perline=10" alt="Core CSE Stack" />
-</div>
+
+### 🔹 Computer Science & AI Architecture
+<img src="https://skillicons.dev/icons?i=py,cpp,c,tensorflow,pytorch,linux,bash,docker,kubernetes,git&perline=10" alt="Core CS & AI Stack" />
 
 ### 🔹 High-Performance Frontend & 3D Rendering
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,nextjs,vite,html,css,figma,threejs&perline=10" alt="Frontend Stack" />
-</div>
+<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,nextjs,vite,html,css,figma,threejs&perline=10" alt="Frontend Stack" />
 
 ### 🔹 Distributed Backend & Cloud Infrastructure
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,gcp,aws,vercel,mongodb,mysql,nginx,ubuntu&perline=10" alt="Backend Stack" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,gcp,aws,vercel,mongodb,mysql,nginx,ubuntu&perline=10" alt="Backend Stack" />
+
 </div>
 
 <br/>
@@ -145,6 +148,8 @@ From queue-management platforms handling thousands of real-time users, to hyperl
 
 ## 🏗️ FLAGSHIP PROJECTS
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:1a0533,100:0d0221&height=3" width="100%" />
+
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -152,7 +157,7 @@ From queue-management platforms handling thousands of real-time users, to hyperl
 ### 🌐 Line Free India
 > *Queue-less India. Powered by Distributed Architecture.*
 
-A **corporate-tier, real-time queue management and appointment booking system** — engineered from the ground up for India's 218+ business types. Built with rigorous attention to state management, parallel processing, and secure Firestore data pipelines.
+A **corporate-tier, real-time queue management and appointment booking system** engineered for India's 218+ business types. Built with rigorous attention to state management, parallel processing, and secure Firestore data pipelines.
 
 ```
 Architecture:
@@ -177,7 +182,7 @@ Queue Token  → WhatsApp Notify → Customer
 ### 🛒 NearKart
 > *Pehle Dekho, Phir Jao! — Hyperlocal India.*
 
-A **hyperlocal Indian business discovery platform** — connecting Bharat's neighbourhood businesses with their local customers. Features a 48+ category directory, smart search, and business product catalogues.
+A **hyperlocal Indian business discovery platform** connecting Bharat's neighbourhood businesses with local customers. Features a 48+ category directory, smart search, and business product catalogues with Cloudinary-powered media.
 
 ```
 Architecture:
@@ -230,7 +235,7 @@ Predictive Stats  →  Performance Reports
 ### 🎮 IPL 3D Browser Simulation
 > *Satyam Gaming Zone — Cricket in the Third Dimension.*
 
-A **browser-based real-time IPL cricket 3D simulation** built with raw Three.js and Vanilla JS. Features a universal player system with a single `.fbx` model, bone-based equipment attachment, role-based animations, and procedural fallback geometry.
+A **browser-based real-time IPL cricket 3D simulation** built with raw Three.js and Vanilla JS. Features a universal player system, bone-based equipment attachment, role-based animations, and procedural fallback geometry.
 
 ```
 Architecture:
@@ -258,6 +263,12 @@ Procedural Equipment → Commentary Engine
 ## 🧪 RESEARCH LAB & EXPERIMENTAL COMPUTE
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FBE,50:4A00E0,100:7B2FBE&height=3" width="80%" />
+</div>
+
+<br/>
+
+<div align="center">
 
 ```
 ╔═══════════════════════════════════════════════════════════════════╗
@@ -277,13 +288,15 @@ Procedural Equipment → Commentary Engine
 
 </div>
 
-> **NVIDIA NGC Cloud Engineering:** Leveraging high-tier GPU clusters for processing massive datasets, neural network training, and rendering hyper-detailed cinematic continuity. Current focus: minimizing Big O time complexities and raw computational logic in production systems.
-
 ---
 
 ## 🏅 ACHIEVEMENTS & CREDENTIALS
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,50:FFA500,100:FFD700&height=3" width="60%" />
+
+<br/><br/>
 
 ### 🏆 GitHub Combat Record
 
@@ -298,9 +311,11 @@ Procedural Equipment → Commentary Engine
 ### 🎖️ Industry Certifications
 
 [![Google Ads](https://img.shields.io/badge/Google_Ads-AI_Powered_Performance-4285F4?style=for-the-badge&logo=google-ads&logoColor=white)](https://skillshop.exceedlms.com)
+
 **ID: 182638038** — Authorized by Google
 
 [![Google Play](https://img.shields.io/badge/Google_Play-Store_Listing_Certificate-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com)
+
 **ID: 182654711** — Authorized by Google
 
 </div>
@@ -311,6 +326,10 @@ Procedural Equipment → Commentary Engine
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00B4D8,50:0077B6,100:00B4D8&height=3" width="80%" />
+
+<br/><br/>
+
 ### ⚡ GitHub Analytics
 
 <img src="https://github-readme-stats.vercel.app/api?username=kumarsatyam9378-art&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00F0FF&text_color=8b949e&icon_color=34A853&bg_color=0d1117&ring_color=00F0FF" alt="GitHub Stats" width="48%" />
@@ -318,7 +337,7 @@ Procedural Equipment → Commentary Engine
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarsatyam9378-art&theme=tokyonight&hide_border=true&ring=00F0FF&fire=34A853&currStreakLabel=00F0FF&background=0d1117&stroke=00F0FF&sideNums=00F0FF&dates=8b949e&currStreakNum=FFFFFF" alt="GitHub Streak" width="97%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarsatyam9378-art&theme=tokyonight&hide_border=true&ring=00F0FF&fire=FF6B35&currStreakLabel=00F0FF&background=0d1117&stroke=00F0FF&sideNums=00F0FF&dates=8b949e&currStreakNum=FFFFFF" alt="GitHub Streak" width="97%" />
 
 <br/><br/>
 
@@ -336,7 +355,7 @@ Procedural Equipment → Commentary Engine
 
 ### 📈 Contribution Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kumarsatyam9378-art&bg_color=0d1117&color=00F0FF&line=34A853&point=00F0FF&area=true&area_color=00F0FF&hide_border=true&title_color=00F0FF" width="97%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kumarsatyam9378-art&bg_color=0d1117&color=00F0FF&line=7B2FBE&point=FF6B35&area=true&area_color=00B4D8&hide_border=true&title_color=00F0FF" width="97%" alt="Activity Graph" />
 
 </div>
 
@@ -391,7 +410,7 @@ $ connect --target satyam-kumar --protocol secure
 > Resolving endpoints...
 
 [01] $ ping linkedin://satyam-kumar-130830411
-     ✔  Response: 200 OK — https://linkedin.com/in/satyam-kumar-130830411
+     ✔  Response: 200 OK — linkedin.com/in/satyam-kumar-130830411
 
 [02] $ send-mail --to kumarsatyam9378@gmail.com
      ✔  Mail server: ACTIVE — Latency: <50ms
@@ -408,9 +427,10 @@ $ connect --target satyam-kumar --protocol secure
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyam-kumar-130830411)
-[![Gmail](https://img.shields.io/badge/Gmail-kumarsatyam9378@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarsatyam9378@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-satyamkumar__30729-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/satyamkumar_30729)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyam-kumar-130830411)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-Send_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarsatyam9378@gmail.com)&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-Join_Channel-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/satyamkumar_30729)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kumarsatyam9378-art)
 
 </div>
 
@@ -430,6 +450,6 @@ $ connect --target satyam-kumar --protocol secure
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:0a0a1a,100:000000&height=140&section=footer&text=KEEP%20BUILDING.%20KEEP%20SHIPPING.&fontSize=28&fontColor=00F0FF&animation=twinkling&descAlign=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:0a1628,60:1a0533,100:0d2137&height=150&section=footer&text=KEEP%20BUILDING.%20KEEP%20SHIPPING.&fontSize=28&fontColor=00F0FF&animation=twinkling" width="100%" />
 
 </div>
